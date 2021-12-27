@@ -1,6 +1,6 @@
 # Finder V-Nitro
 Dox with the powers of searchs engines!
-Google : ✅
+<h2> Google : ✅ </h2>
 Yahoo : ❌
 Bing : ❌
 Duckduckgo : ❌
