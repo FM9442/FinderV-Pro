@@ -92,7 +92,7 @@ while anwser == yesanwser:
         gs = Gsearch_python(Lastname + City)
         gs.Gsearch()
     
-    anwser=input("Refaire une recherche Y/N : ")
+    anwser=input(Fore.MAGENTA + "Refaire une recherche Y/N : ")
 print(Style.RESET_ALL)
 os.system("cls")
 print("Bye!")
