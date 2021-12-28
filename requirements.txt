@@ -2,3 +2,15 @@ google
 sys
 time
 os
+colorama
+duckduckpy
+duckduckgo-search
+duckduckgo_search
+requests
+bs4
+terminaltables
+exifread
+urllib.request
+selenium
+serpapi
+json
