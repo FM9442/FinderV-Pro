@@ -1,5 +1,5 @@
 #Made by Lincoln#6812 aka github.com/FM9442
-# Version 0.4
+# Version 0.5
 import time, os, sys, lxml, requests, json, duckduckgo_search
 from serpapi import GoogleSearch
 from duckduckpy import query
@@ -28,7 +28,7 @@ City=input(Fore.MAGENTA + "Ville : ")
 print(Style.RESET_ALL)
 
 # Performing google search using Python code
-version = ("0.4")
+version = ("0.5")
 class Gsearch_python:
    def __init__(self,name_search):
       self.name = name_search
