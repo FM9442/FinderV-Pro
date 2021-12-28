@@ -87,6 +87,7 @@ while anwser == yesanwser:
     time.sleep(1.5)
     Lastname=input(Fore.MAGENTA + "Nom de famille précis : ")
     City=input(Fore.MAGENTA + "Ville : ")
+    print(Style.RESET_ALL)
     if __name__=='__main__':
         gs = Gsearch_python(Lastname + City)
         gs.Gsearch()
