@@ -1,5 +1,5 @@
 #Made by Lincoln#6812 aka github.com/FM9442
-# Version 0.3
+# Version 0.4
 import time, os, sys, lxml, requests, json, duckduckgo_search
 from serpapi import GoogleSearch
 from duckduckpy import query
@@ -12,7 +12,7 @@ from colorama import Fore, Back, Style
 init()
 
 print(Fore.LIGHTRED_EX + "Bienvenue sur Finder V-Nitro!")
-print(Fore.BLACK + "https://github.com/FM9442/FinderV-Pro")
+print(Fore.WHITE + "https://github.com/FM9442/FinderV-Pro")
 print(Fore.BLUE + "Discord : Lincoln#6812")
 print(Style.RESET_ALL)
 time.sleep(1)
@@ -28,7 +28,7 @@ City=input(Fore.MAGENTA + "Ville : ")
 print(Style.RESET_ALL)
 
 # Performing google search using Python code
-version = ("0.3")
+version = ("0.4")
 class Gsearch_python:
    def __init__(self,name_search):
       self.name = name_search
@@ -74,7 +74,7 @@ print("Non disponible")
 time.sleep(2)
 print(Fore.CYAN + "DuckDuckGo")
 print("Non disponible")
-
+print("")
 
 anwser=input(Fore.MAGENTA + "Refaire une recherche Y/N : ")
 yesanwser="Y"
