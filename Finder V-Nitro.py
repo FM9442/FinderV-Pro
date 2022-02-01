@@ -1,4 +1,4 @@
-#Made by Lincoln#6812 aka github.com/FM9442
+#Made by Lincoln#6732 aka github.com/FM9442
 # Version 0.5
 import time, os, sys, lxml, requests, json, duckduckgo_search
 from serpapi import GoogleSearch
